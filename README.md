@@ -12,15 +12,17 @@ in Windows libusb.
 you can detect i2c addresses in windows. py-i2cdetect.py
 
 # References:
-Win & Linux
+  # Win & Linux
 
 https://www.adafruit.com/product/2000
 
 https://github.com/harbaum/I2C-Tiny-USB
-Pyton
+
+  # Pyton
 
 https://www.fischl.de/i2c-mp-usb/
-only linux
+
+  # only linux
 
 https://www.adafruit.com/product/4382
 
